@@ -1,5 +1,4 @@
-**Magento 2 NewModule by Mk <br/>
-Just an empty module for Magento 2 **
+**Just Magento 2 NewModule by Mk**
 
 ### Install via composer
 
