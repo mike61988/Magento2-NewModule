@@ -5,7 +5,7 @@
 Run the following command in Magento 2 root folder
 
 ```
-composer require mike61988/Magento2-NewModule
+composer require mike61988/magento2-newmodule
 
 php bin/magento module:status
 php bin/magento module:enable Mk_NewModule
